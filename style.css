@@ -1,0 +1,47 @@
+.welcome{
+    border: 5px solid rgb(1, 185, 71);
+    color: rgb(192, 209, 166);
+    background: rgb(56, 50, 50);
+    margin: 30px;
+    padding: 50px;
+    text-align: center;
+}
+
+
+.page{
+    border: 5px solid rgb(1, 185, 71);
+    color: rgb(192, 209, 166);
+    background: rgb(56, 49, 49);
+    margin: 0px 100px 50px 100px;
+    padding: 10px;
+    text-align: center;
+}
+
+
+.link{
+    background:rgb(56, 49, 49);
+    border: 3px solid black;
+    width: 130px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+}
+
+.link a{
+    text-decoration: none;
+    color: rgb(49, 153, 46); 
+}
+
+
+.link-2 a{
+    background:rgb(56, 49, 49);
+    border: 3px solid black;
+    width: 130px;
+    text-align: center;
+    box-shadow: 2px 2px 2px black;
+    float: right;
+    text-decoration: none;
+    color: rgb(49, 153, 46); 
+
+}
+
+
